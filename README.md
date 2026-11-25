@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2dc,100:ff69aa&height=170&section=header&text=hi,%20i'm%20Lera&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38" alt="hi, i'm Lera" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69AA&center=true&vCenter=true&width=520&lines=robotics+%E2%99%A1+ML+%E2%99%A1+AI+%E2%99%A1+math;teaching+kids+to+train+models;here+mostly+for+fun+%E2%9C%A8" alt="typing" /> </p> <p align="center"> <img src="assets/robot.gif" width="120" alt="pink robot waving" /> </p>
 ˚₊‧ about me ‧₊˚
 
-I'm Lera, and I use GitHub purely for fun ✿ You'll mostly find study stuff here, but I'm planning to start posting my vibe-coded projects and just random things I make.
+I use GitHub purely for fun ✿ You'll mostly find study stuff here, but I'm planning to start posting my vibe-coded projects and just random things I make.
 
 I don't claim to be a cool developer — I just like tinkering with all sorts of things: robotics, machine learning & AI, and math 🎀
 
