@@ -7,12 +7,19 @@ I don't claim to be a cool developer — I just like tinkering with all sorts of
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc2dc&height=3" width="100%" />
 ˚₊‧ what i do ‧₊˚
+
 ✿ I work as a teacher and prepare school students for the All-Russian Olympiad in AI
+
 ✿ I coach the Russian national team and the Moscow team in AI
+
 ✿ previously worked at a tissue engineering & regenerative medicine lab
+
 ✿ interned at Bimbo Incorporated as an NLP engineer
+
 ✿ I push AI education forward and organize events around it
+
 ✿ next up: level up my hard skills and step away from teaching (sorry, kids :)))
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc2dc&height=3" width="100%" />
 ˚₊‧ let's make something together ‧₊˚
 
