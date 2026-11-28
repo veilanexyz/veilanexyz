@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm Lera <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE4eDdreDZxeTlhYjAwZzZ5MHFpZ3NlZWdhcndvMThjNHNiZTlmMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3WW4Zm1F2MeoU/giphy.gif" width="34" /></h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF69AA&center=true&vCenter=true&width=520&lines=robotics+%E2%99%A1+ML+%E2%99%A1+AI+%E2%99%A1+math;here+mostly+for+fun+%E2%9C%A8" alt="typing" /> </p> <p align="center"> <img src="https://github.com/veilanexyz/pictures/blob/main/kitty.gif" width="320" alt="cat and mouse" /> </p>
 ˚₊‧ about me ‧₊˚
 
-I'm planning to start posting my vibe-coded projects and just random things I make.
+I'm planning to start posting my ~~vibe-coded~~ projects and just random things I make.
 
 I don't claim to be a cool developer — I just like tinkering with all sorts of things: robotics, machine learning & AI, and math 🎀
 
