@@ -25,4 +25,4 @@ I don't claim to be a cool developer — I just like tinkering with all sorts of
 
 Got an idea we could work on together? Drop me a message in the channel's DMs 💌
 
-<p align="center"> <a href="https://t.me/nya_research"> <img src="https://img.shields.io/badge/telegram-nya__research-ff69aa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: nya_research" /> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/-Python-ffc2dc?style=flat-square&logo=python&logoColor=ff3d8b" /> <img src="https://img.shields.io/badge/-PyTorch-ffc2dc?style=flat-square&logo=pytorch&logoColor=ff3d8b" /> <img src="https://img.shields.io/badge/-scikit--learn-ffc2dc?style=flat-square&logo=scikitlearn&logoColor=ff3d8b" /> <p align="center"><sub>thanks for stopping by ♡</sub></p>
+<p align="center"> <a href="https://t.me/nya_research"> <img src="https://img.shields.io/badge/telegram-nya__research-ff69aa?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: nya_research" /> </a> </p> <p align="center"><sub>thanks for stopping by ♡</sub></p>
